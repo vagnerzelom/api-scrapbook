@@ -1,9 +1,7 @@
 {
-  "name": "simple-scrapbook-api",
+  "name": "api-scrapbook",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/gustavo-0101/simple-scrapbook.api.git",
-  "author": "gustavo-0101 <guga-rd@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon"
